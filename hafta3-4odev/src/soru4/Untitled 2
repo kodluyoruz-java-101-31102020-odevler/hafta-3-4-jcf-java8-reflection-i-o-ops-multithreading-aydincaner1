@@ -1,0 +1,9 @@
+
+ArrayList
+Nesneleri içeren dinamik bir dizi oluþturmak için kullanýlýr.
+Tüm verilere heryerden ulaþabilir.
+Gerektiðinde büyüyüp küçülebilir sýnýrý yoktur.
+
+
+Linkedlist
+Verileri tek tek dolaþarak ulaþmaya çalýþýr. .next
